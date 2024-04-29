@@ -3,4 +3,4 @@
 __pycache__/
 .idea/*
 .pretrained_networks/
-./data/
+.data/
